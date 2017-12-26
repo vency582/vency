@@ -201,3 +201,25 @@ git status
 git log
 #1514135008
 poweroff
+git --version
+git
+clr
+clear
+git --version
+git status
+git status --oneline
+ls -la
+cat f1
+cat f2
+vi f2
+vi f3
+cat f2
+cat f3
+git status
+git add .
+git add -A
+git status
+git commit -m "modified commit"
+git status
+git log
+git show fb39f2b5d5695fdf3a220550b604490a08f9354b
