@@ -458,6 +458,15 @@
         "star5": 1,
         "total": 5
     },
+    "celestia.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 1,
+        "star5": 1,
+        "total": 2
+    },
     "cherrytree.desktop": {
         "star0": 0,
         "star1": 0,
@@ -1567,12 +1576,12 @@
     },
     "gnome-music.desktop": {
         "star0": 0,
-        "star1": 11,
+        "star1": 12,
         "star2": 6,
         "star3": 5,
         "star4": 12,
         "star5": 14,
-        "total": 48
+        "total": 49
     },
     "gnome-nettool.desktop": {
         "star0": 0,
@@ -1711,12 +1720,12 @@
     },
     "gparted.desktop": {
         "star0": 0,
-        "star1": 19,
+        "star1": 20,
         "star2": 5,
         "star3": 6,
         "star4": 4,
         "star5": 36,
-        "total": 70
+        "total": 71
     },
     "gpick.desktop": {
         "star0": 0,
@@ -2786,8 +2795,8 @@
         "star2": 4,
         "star3": 8,
         "star4": 8,
-        "star5": 13,
-        "total": 42
+        "star5": 14,
+        "total": 43
     },
     "org.gnome.Builder.desktop": {
         "star0": 0,
@@ -2906,6 +2915,15 @@
         "star5": 1,
         "total": 7
     },
+    "org.gnome.Geary.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
+    },
     "org.gnome.Logs.desktop": {
         "star0": 0,
         "star1": 1,
@@ -2926,12 +2944,12 @@
     },
     "org.gnome.Maps.desktop": {
         "star0": 0,
-        "star1": 8,
+        "star1": 9,
         "star2": 4,
         "star3": 6,
         "star4": 13,
         "star5": 17,
-        "total": 48
+        "total": 49
     },
     "org.gnome.MultiWriter.desktop": {
         "star0": 0,
@@ -3035,11 +3053,11 @@
     "org.gnome.Software.desktop": {
         "star0": 0,
         "star1": 11,
-        "star2": 2,
+        "star2": 3,
         "star3": 15,
         "star4": 7,
         "star5": 6,
-        "total": 41
+        "total": 42
     },
     "org.gnome.SoundJuicer.desktop": {
         "star0": 0,
@@ -3311,6 +3329,15 @@
         "star5": 1,
         "total": 2
     },
+    "org.kde.korganizer.desktop": {
+        "star0": 0,
+        "star1": 1,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 1,
+        "total": 2
+    },
     "org.kde.krita.desktop": {
         "star0": 0,
         "star1": 0,
@@ -3364,6 +3391,15 @@
         "star4": 0,
         "star5": 5,
         "total": 7
+    },
+    "org.libreoffice.LibreOffice.desktop": {
+        "star0": 0,
+        "star1": 0,
+        "star2": 0,
+        "star3": 0,
+        "star4": 0,
+        "star5": 2,
+        "total": 2
     },
     "org.mageia.dnfdragora.desktop": {
         "star0": 0,
@@ -3569,8 +3605,8 @@
         "star2": 1,
         "star3": 1,
         "star4": 2,
-        "star5": 26,
-        "total": 31
+        "star5": 27,
+        "total": 32
     },
     "qelectrotech.desktop": {
         "star0": 0,
@@ -4028,8 +4064,8 @@
         "star2": 0,
         "star3": 0,
         "star4": 2,
-        "star5": 8,
-        "total": 11
+        "star5": 9,
+        "total": 12
     },
     "supertuxkart.desktop": {
         "star0": 0,
